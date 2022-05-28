@@ -1,4 +1,4 @@
-Hello, my name is Nick Caporusso and I am currently a Senior at Northern Arizona University studying Computer Science graduating in May 2022.
+Hello, my name is Nick Caporusso and I graduated from Northern Arizona University with a Bachelors in Computer Science.
 
 I am extremely interested in learning AI and would like to persue that field as my career path, but 
 for now I want to learn as much as I possibly can about coding and the proper ways in how to code effectively.
